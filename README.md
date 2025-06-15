@@ -58,14 +58,4 @@ https://tool-tips.vercel.app/
 - Preview the tooltip live as you change options.
 - Copy the generated React code snippet and use it in your project.
 
-## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-If you need this in a different format or with additional sections, just let me know!
