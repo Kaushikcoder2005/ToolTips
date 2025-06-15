@@ -1,12 +1,27 @@
-# React + Vite
+# Tooltips Sandbox 🛠️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A customizable React tooltip component with live preview and code generation. Perfect for prototyping and implementing tooltips in your projects.
 
-Currently, two official plugins are available:
+![Tooltips Sandbox Preview](https://i.imgur.com/example-image.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features ✨
 
-## Expanding the ESLint configuration
+- **Multiple Trigger Options**: Hover, click, or focus triggers
+- **Flexible Positioning**: Top, right, bottom, or left placement
+- **Customizable Appearance**:
+  - Shape (rectangle, rounded, speech bubble)
+  - Background and text colors
+  - Width and font size
+  - Optional icons
+- **Animation Effects**: Fade, slide, or scale animations
+- **Live Preview**: See changes in real-time
+- **Code Generation**: Get ready-to-use React code
+- **Dark/Light Mode**: Toggle between color schemes
+- **Responsive Design**: Works on desktop and mobile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation ⚙️
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/tooltips-sandbox.git
+   cd tooltips-sandbox
