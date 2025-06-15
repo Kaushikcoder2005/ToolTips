@@ -6,7 +6,7 @@ Here is a starter README.md file for your project, based on your request and the
 
 A customizable React tooltip component with live preview and code generation. Perfect for prototyping and implementing tooltips in your projects.
 
-![Tooltips Sandbox Preview]([https://i.imgur.com/example-image.png](https://tool-tips.vercel.app/))
+https://tool-tips.vercel.app/
 
 ## Features ✨
 
